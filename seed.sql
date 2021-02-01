@@ -51,10 +51,10 @@ INSERT INTO employees
     (firstName, lastName, roleId, managerId)
 VALUES
     ('John', 'Doe', 1, NULL),
-    ('Mike', 'Chan', 2, 1),
-    ('Ashley', 'Rodriguez', 3, NULL),
-    ('Kevin', 'Tupik', 4, 3),
-    ('Kunal', 'Singh', 5, NULL),
-    ('Malia', 'Brown', 6, 5),
-    ('Sarah', 'Lourd', 7, NULL),
-    ('Tom', 'Allen', 8, 7);
+    ('Jane', 'Doe', 2, 1),
+    ('Kevin', 'Smith', 3, NULL),
+    ('Andre', 'Giant', 4, 3),
+    ('Michael', 'Keaton', 5, NULL),
+    ('Sarah', 'Silverman', 6, 5),
+    ('George', 'Lopez', 7, NULL),
+    ('Michael', 'Jordan', 8, 7);
